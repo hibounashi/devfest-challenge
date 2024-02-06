@@ -1,2 +1,2 @@
-# devfest-challenge
-this is some of the chanllenges i try to solve it in the event of devfest online challenges
+# Devfest-challenge
+These are some of the challenges I try to solve in the event of Algiers's Devfest 
